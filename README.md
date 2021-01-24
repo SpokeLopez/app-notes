@@ -1,6 +1,6 @@
 # app-notes
 
-> Proyecto para el curso de vue 2
+> Aplicacion de notas con Vue, utilizando bootstrap 4.
 
 ## Build Setup
 
